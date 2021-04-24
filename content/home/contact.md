@@ -1,6 +1,6 @@
 ---
 # Activate this widget? true/false
-active: true
+active: false
 
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
@@ -26,7 +26,7 @@ content:
     #   id: test
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
+      captcha: false
   
 design:
   columns: '2'
