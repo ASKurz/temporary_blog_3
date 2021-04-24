@@ -1,6 +1,6 @@
 ---
 # Activate this widget? true/false
-active: false
+active: true
 
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
@@ -21,12 +21,12 @@ content:
   
   # Email form provider
   form:
-    provider: formspree
-    formspree:
-      id: test
+    provider: netlify
+    # formspree:
+    #   id: test
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
   columns: '2'
