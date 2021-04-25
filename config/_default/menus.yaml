@@ -25,9 +25,9 @@ main:
   - name: Support
     url: support/
     weight: 7
-  - name: Contact
-    url: '#contact'
-    weight: 8
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 8
     
 # # these are the original settings   
 # main:
